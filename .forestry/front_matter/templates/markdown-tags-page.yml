@@ -20,6 +20,8 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
 - type: boolean
   name: comments
   label: comments
