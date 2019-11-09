@@ -9,3 +9,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- _posts/diest-ist-ein-test.md
