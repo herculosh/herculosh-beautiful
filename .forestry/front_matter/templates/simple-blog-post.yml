@@ -1,0 +1,13 @@
+---
+label: Simple Blog Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+- type: text
+  name: title
+  label: title
+pages:
+- _posts/diest-ist-ein-test.md
